@@ -1,0 +1,1118 @@
+[
+  {
+    "id": 1,
+    "name": "LV Fall 2025 Item 1",
+    "category": "Fashion",
+    "description": "Louis Vuitton Fall 2025 Ready-to-Wear Collection item 1",
+    "imagePath": "/Users/robert/Documents/Fable/bookish-disco/backend/lv-images/lv-fall-2025-1.jpg",
+    "imageUrl": "https://wwd.com/wp-content/uploads/2025/03/louis-vuitton-fall-25-r-gg-pfw-0001.jpg?w=800",
+    "features": [
+      "luxury",
+      "designer",
+      "fashion"
+    ],
+    "colors": [
+      "various"
+    ],
+    "price": "$2959",
+    "originalAlt": "LV Fall 2025 Item 1"
+  },
+  {
+    "id": 2,
+    "name": "LV Fall 2025 Item 2",
+    "category": "Fashion",
+    "description": "Louis Vuitton Fall 2025 Ready-to-Wear Collection item 2",
+    "imagePath": "/Users/robert/Documents/Fable/bookish-disco/backend/lv-images/lv-fall-2025-2.jpg",
+    "imageUrl": "https://wwd.com/wp-content/uploads/2025/03/louis-vuitton-fall-25-r-gg-pfw-0002.jpg?w=800",
+    "features": [
+      "luxury",
+      "designer",
+      "fashion"
+    ],
+    "colors": [
+      "various"
+    ],
+    "price": "$2582",
+    "originalAlt": "LV Fall 2025 Item 2"
+  },
+  {
+    "id": 3,
+    "name": "LV Fall 2025 Item 3",
+    "category": "Fashion",
+    "description": "Louis Vuitton Fall 2025 Ready-to-Wear Collection item 3",
+    "imagePath": "/Users/robert/Documents/Fable/bookish-disco/backend/lv-images/lv-fall-2025-3.jpg",
+    "imageUrl": "https://wwd.com/wp-content/uploads/2025/03/louis-vuitton-fall-25-r-gg-pfw-0003.jpg?w=800",
+    "features": [
+      "luxury",
+      "designer",
+      "fashion"
+    ],
+    "colors": [
+      "various"
+    ],
+    "price": "$1909",
+    "originalAlt": "LV Fall 2025 Item 3"
+  },
+  {
+    "id": 4,
+    "name": "LV Fall 2025 Item 4",
+    "category": "Fashion",
+    "description": "Louis Vuitton Fall 2025 Ready-to-Wear Collection item 4",
+    "imagePath": "/Users/robert/Documents/Fable/bookish-disco/backend/lv-images/lv-fall-2025-4.jpg",
+    "imageUrl": "https://wwd.com/wp-content/uploads/2025/03/louis-vuitton-fall-25-r-gg-pfw-0004.jpg?w=800",
+    "features": [
+      "luxury",
+      "designer",
+      "fashion"
+    ],
+    "colors": [
+      "various"
+    ],
+    "price": "$3808",
+    "originalAlt": "LV Fall 2025 Item 4"
+  },
+  {
+    "id": 5,
+    "name": "LV Fall 2025 Item 5",
+    "category": "Fashion",
+    "description": "Louis Vuitton Fall 2025 Ready-to-Wear Collection item 5",
+    "imagePath": "/Users/robert/Documents/Fable/bookish-disco/backend/lv-images/lv-fall-2025-5.jpg",
+    "imageUrl": "https://wwd.com/wp-content/uploads/2025/03/louis-vuitton-fall-25-r-gg-pfw-0005.jpg?w=800",
+    "features": [
+      "luxury",
+      "designer",
+      "fashion"
+    ],
+    "colors": [
+      "various"
+    ],
+    "price": "$2106",
+    "originalAlt": "LV Fall 2025 Item 5"
+  },
+  {
+    "id": 6,
+    "name": "LV Fall 2025 Item 6",
+    "category": "Fashion",
+    "description": "Louis Vuitton Fall 2025 Ready-to-Wear Collection item 6",
+    "imagePath": "/Users/robert/Documents/Fable/bookish-disco/backend/lv-images/lv-fall-2025-6.jpg",
+    "imageUrl": "https://wwd.com/wp-content/uploads/2025/03/louis-vuitton-fall-25-r-gg-pfw-0006.jpg?w=800",
+    "features": [
+      "luxury",
+      "designer",
+      "fashion"
+    ],
+    "colors": [
+      "various"
+    ],
+    "price": "$1054",
+    "originalAlt": "LV Fall 2025 Item 6"
+  },
+  {
+    "id": 7,
+    "name": "LV Fall 2025 Item 7",
+    "category": "Fashion",
+    "description": "Louis Vuitton Fall 2025 Ready-to-Wear Collection item 7",
+    "imagePath": "/Users/robert/Documents/Fable/bookish-disco/backend/lv-images/lv-fall-2025-7.jpg",
+    "imageUrl": "https://wwd.com/wp-content/uploads/2025/03/louis-vuitton-fall-25-r-gg-pfw-0007.jpg?w=800",
+    "features": [
+      "luxury",
+      "designer",
+      "fashion"
+    ],
+    "colors": [
+      "various"
+    ],
+    "price": "$1788",
+    "originalAlt": "LV Fall 2025 Item 7"
+  },
+  {
+    "id": 8,
+    "name": "LV Fall 2025 Item 8",
+    "category": "Fashion",
+    "description": "Louis Vuitton Fall 2025 Ready-to-Wear Collection item 8",
+    "imagePath": "/Users/robert/Documents/Fable/bookish-disco/backend/lv-images/lv-fall-2025-8.jpg",
+    "imageUrl": "https://wwd.com/wp-content/uploads/2025/03/louis-vuitton-fall-25-r-gg-pfw-0008.jpg?w=800",
+    "features": [
+      "luxury",
+      "designer",
+      "fashion"
+    ],
+    "colors": [
+      "various"
+    ],
+    "price": "$3075",
+    "originalAlt": "LV Fall 2025 Item 8"
+  },
+  {
+    "id": 9,
+    "name": "LV Fall 2025 Item 9",
+    "category": "Fashion",
+    "description": "Louis Vuitton Fall 2025 Ready-to-Wear Collection item 9",
+    "imagePath": "/Users/robert/Documents/Fable/bookish-disco/backend/lv-images/lv-fall-2025-9.jpg",
+    "imageUrl": "https://wwd.com/wp-content/uploads/2025/03/louis-vuitton-fall-25-r-gg-pfw-0009.jpg?w=800",
+    "features": [
+      "luxury",
+      "designer",
+      "fashion"
+    ],
+    "colors": [
+      "various"
+    ],
+    "price": "$1399",
+    "originalAlt": "LV Fall 2025 Item 9"
+  },
+  {
+    "id": 10,
+    "name": "LV Fall 2025 Item 10",
+    "category": "Fashion",
+    "description": "Louis Vuitton Fall 2025 Ready-to-Wear Collection item 10",
+    "imagePath": "/Users/robert/Documents/Fable/bookish-disco/backend/lv-images/lv-fall-2025-10.jpg",
+    "imageUrl": "https://wwd.com/wp-content/uploads/2025/03/louis-vuitton-fall-25-r-gg-pfw-0010.jpg?w=800",
+    "features": [
+      "luxury",
+      "designer",
+      "fashion"
+    ],
+    "colors": [
+      "various"
+    ],
+    "price": "$1930",
+    "originalAlt": "LV Fall 2025 Item 10"
+  },
+  {
+    "id": 11,
+    "name": "LV Fall 2025 Item 11",
+    "category": "Fashion",
+    "description": "Louis Vuitton Fall 2025 Ready-to-Wear Collection item 11",
+    "imagePath": "/Users/robert/Documents/Fable/bookish-disco/backend/lv-images/lv-fall-2025-11.jpg",
+    "imageUrl": "https://wwd.com/wp-content/uploads/2025/03/louis-vuitton-fall-25-r-gg-pfw-0011.jpg?w=800",
+    "features": [
+      "luxury",
+      "designer",
+      "fashion"
+    ],
+    "colors": [
+      "various"
+    ],
+    "price": "$3233",
+    "originalAlt": "LV Fall 2025 Item 11"
+  },
+  {
+    "id": 12,
+    "name": "LV Fall 2025 Item 12",
+    "category": "Fashion",
+    "description": "Louis Vuitton Fall 2025 Ready-to-Wear Collection item 12",
+    "imagePath": "/Users/robert/Documents/Fable/bookish-disco/backend/lv-images/lv-fall-2025-12.jpg",
+    "imageUrl": "https://wwd.com/wp-content/uploads/2025/03/louis-vuitton-fall-25-r-gg-pfw-0012.jpg?w=800",
+    "features": [
+      "luxury",
+      "designer",
+      "fashion"
+    ],
+    "colors": [
+      "various"
+    ],
+    "price": "$1887",
+    "originalAlt": "LV Fall 2025 Item 12"
+  },
+  {
+    "id": 13,
+    "name": "LV Fall 2025 Item 13",
+    "category": "Fashion",
+    "description": "Louis Vuitton Fall 2025 Ready-to-Wear Collection item 13",
+    "imagePath": "/Users/robert/Documents/Fable/bookish-disco/backend/lv-images/lv-fall-2025-13.jpg",
+    "imageUrl": "https://wwd.com/wp-content/uploads/2025/03/louis-vuitton-fall-25-r-gg-pfw-0013.jpg?w=800",
+    "features": [
+      "luxury",
+      "designer",
+      "fashion"
+    ],
+    "colors": [
+      "various"
+    ],
+    "price": "$2235",
+    "originalAlt": "LV Fall 2025 Item 13"
+  },
+  {
+    "id": 14,
+    "name": "LV Fall 2025 Item 14",
+    "category": "Fashion",
+    "description": "Louis Vuitton Fall 2025 Ready-to-Wear Collection item 14",
+    "imagePath": "/Users/robert/Documents/Fable/bookish-disco/backend/lv-images/lv-fall-2025-14.jpg",
+    "imageUrl": "https://wwd.com/wp-content/uploads/2025/03/louis-vuitton-fall-25-r-gg-pfw-0014.jpg?w=800",
+    "features": [
+      "luxury",
+      "designer",
+      "fashion"
+    ],
+    "colors": [
+      "various"
+    ],
+    "price": "$3850",
+    "originalAlt": "LV Fall 2025 Item 14"
+  },
+  {
+    "id": 15,
+    "name": "LV Fall 2025 Item 15",
+    "category": "Fashion",
+    "description": "Louis Vuitton Fall 2025 Ready-to-Wear Collection item 15",
+    "imagePath": "/Users/robert/Documents/Fable/bookish-disco/backend/lv-images/lv-fall-2025-15.jpg",
+    "imageUrl": "https://wwd.com/wp-content/uploads/2025/03/louis-vuitton-fall-25-r-gg-pfw-0015.jpg?w=800",
+    "features": [
+      "luxury",
+      "designer",
+      "fashion"
+    ],
+    "colors": [
+      "various"
+    ],
+    "price": "$3341",
+    "originalAlt": "LV Fall 2025 Item 15"
+  },
+  {
+    "id": 16,
+    "name": "LV Fall 2025 Item 16",
+    "category": "Fashion",
+    "description": "Louis Vuitton Fall 2025 Ready-to-Wear Collection item 16",
+    "imagePath": "/Users/robert/Documents/Fable/bookish-disco/backend/lv-images/lv-fall-2025-16.jpg",
+    "imageUrl": "https://wwd.com/wp-content/uploads/2025/03/louis-vuitton-fall-25-r-gg-pfw-0016.jpg?w=800",
+    "features": [
+      "luxury",
+      "designer",
+      "fashion"
+    ],
+    "colors": [
+      "various"
+    ],
+    "price": "$2714",
+    "originalAlt": "LV Fall 2025 Item 16"
+  },
+  {
+    "id": 17,
+    "name": "LV Fall 2025 Item 17",
+    "category": "Fashion",
+    "description": "Louis Vuitton Fall 2025 Ready-to-Wear Collection item 17",
+    "imagePath": "/Users/robert/Documents/Fable/bookish-disco/backend/lv-images/lv-fall-2025-17.jpg",
+    "imageUrl": "https://wwd.com/wp-content/uploads/2025/03/louis-vuitton-fall-25-r-gg-pfw-0017.jpg?w=800",
+    "features": [
+      "luxury",
+      "designer",
+      "fashion"
+    ],
+    "colors": [
+      "various"
+    ],
+    "price": "$3597",
+    "originalAlt": "LV Fall 2025 Item 17"
+  },
+  {
+    "id": 18,
+    "name": "LV Fall 2025 Item 18",
+    "category": "Fashion",
+    "description": "Louis Vuitton Fall 2025 Ready-to-Wear Collection item 18",
+    "imagePath": "/Users/robert/Documents/Fable/bookish-disco/backend/lv-images/lv-fall-2025-18.jpg",
+    "imageUrl": "https://wwd.com/wp-content/uploads/2025/03/louis-vuitton-fall-25-r-gg-pfw-0018.jpg?w=800",
+    "features": [
+      "luxury",
+      "designer",
+      "fashion"
+    ],
+    "colors": [
+      "various"
+    ],
+    "price": "$2141",
+    "originalAlt": "LV Fall 2025 Item 18"
+  },
+  {
+    "id": 19,
+    "name": "LV Fall 2025 Item 19",
+    "category": "Fashion",
+    "description": "Louis Vuitton Fall 2025 Ready-to-Wear Collection item 19",
+    "imagePath": "/Users/robert/Documents/Fable/bookish-disco/backend/lv-images/lv-fall-2025-19.jpg",
+    "imageUrl": "https://wwd.com/wp-content/uploads/2025/03/louis-vuitton-fall-25-r-gg-pfw-0019.jpg?w=800",
+    "features": [
+      "luxury",
+      "designer",
+      "fashion"
+    ],
+    "colors": [
+      "various"
+    ],
+    "price": "$3524",
+    "originalAlt": "LV Fall 2025 Item 19"
+  },
+  {
+    "id": 20,
+    "name": "LV Fall 2025 Item 20",
+    "category": "Fashion",
+    "description": "Louis Vuitton Fall 2025 Ready-to-Wear Collection item 20",
+    "imagePath": "/Users/robert/Documents/Fable/bookish-disco/backend/lv-images/lv-fall-2025-20.jpg",
+    "imageUrl": "https://wwd.com/wp-content/uploads/2025/03/louis-vuitton-fall-25-r-gg-pfw-0020.jpg?w=800",
+    "features": [
+      "luxury",
+      "designer",
+      "fashion"
+    ],
+    "colors": [
+      "various"
+    ],
+    "price": "$2705",
+    "originalAlt": "LV Fall 2025 Item 20"
+  },
+  {
+    "id": 21,
+    "name": "LV Fall 2025 Item 21",
+    "category": "Fashion",
+    "description": "Louis Vuitton Fall 2025 Ready-to-Wear Collection item 21",
+    "imagePath": "/Users/robert/Documents/Fable/bookish-disco/backend/lv-images/lv-fall-2025-21.jpg",
+    "imageUrl": "https://wwd.com/wp-content/uploads/2025/03/louis-vuitton-fall-25-r-gg-pfw-0021.jpg?w=800",
+    "features": [
+      "luxury",
+      "designer",
+      "fashion"
+    ],
+    "colors": [
+      "various"
+    ],
+    "price": "$3506",
+    "originalAlt": "LV Fall 2025 Item 21"
+  },
+  {
+    "id": 22,
+    "name": "LV Fall 2025 Item 22",
+    "category": "Fashion",
+    "description": "Louis Vuitton Fall 2025 Ready-to-Wear Collection item 22",
+    "imagePath": "/Users/robert/Documents/Fable/bookish-disco/backend/lv-images/lv-fall-2025-22.jpg",
+    "imageUrl": "https://wwd.com/wp-content/uploads/2025/03/louis-vuitton-fall-25-r-gg-pfw-0022.jpg?w=800",
+    "features": [
+      "luxury",
+      "designer",
+      "fashion"
+    ],
+    "colors": [
+      "various"
+    ],
+    "price": "$1377",
+    "originalAlt": "LV Fall 2025 Item 22"
+  },
+  {
+    "id": 23,
+    "name": "LV Fall 2025 Item 23",
+    "category": "Fashion",
+    "description": "Louis Vuitton Fall 2025 Ready-to-Wear Collection item 23",
+    "imagePath": "/Users/robert/Documents/Fable/bookish-disco/backend/lv-images/lv-fall-2025-23.jpg",
+    "imageUrl": "https://wwd.com/wp-content/uploads/2025/03/louis-vuitton-fall-25-r-gg-pfw-0023.jpg?w=800",
+    "features": [
+      "luxury",
+      "designer",
+      "fashion"
+    ],
+    "colors": [
+      "various"
+    ],
+    "price": "$3726",
+    "originalAlt": "LV Fall 2025 Item 23"
+  },
+  {
+    "id": 24,
+    "name": "LV Fall 2025 Item 24",
+    "category": "Fashion",
+    "description": "Louis Vuitton Fall 2025 Ready-to-Wear Collection item 24",
+    "imagePath": "/Users/robert/Documents/Fable/bookish-disco/backend/lv-images/lv-fall-2025-24.jpg",
+    "imageUrl": "https://wwd.com/wp-content/uploads/2025/03/louis-vuitton-fall-25-r-gg-pfw-0024.jpg?w=800",
+    "features": [
+      "luxury",
+      "designer",
+      "fashion"
+    ],
+    "colors": [
+      "various"
+    ],
+    "price": "$2580",
+    "originalAlt": "LV Fall 2025 Item 24"
+  },
+  {
+    "id": 25,
+    "name": "LV Fall 2025 Item 25",
+    "category": "Fashion",
+    "description": "Louis Vuitton Fall 2025 Ready-to-Wear Collection item 25",
+    "imagePath": "/Users/robert/Documents/Fable/bookish-disco/backend/lv-images/lv-fall-2025-25.jpg",
+    "imageUrl": "https://wwd.com/wp-content/uploads/2025/03/louis-vuitton-fall-25-r-gg-pfw-0025.jpg?w=800",
+    "features": [
+      "luxury",
+      "designer",
+      "fashion"
+    ],
+    "colors": [
+      "various"
+    ],
+    "price": "$1131",
+    "originalAlt": "LV Fall 2025 Item 25"
+  },
+  {
+    "id": 26,
+    "name": "LV Fall 2025 Item 26",
+    "category": "Fashion",
+    "description": "Louis Vuitton Fall 2025 Ready-to-Wear Collection item 26",
+    "imagePath": "/Users/robert/Documents/Fable/bookish-disco/backend/lv-images/lv-fall-2025-26.jpg",
+    "imageUrl": "https://wwd.com/wp-content/uploads/2025/03/louis-vuitton-fall-25-r-gg-pfw-0026.jpg?w=800",
+    "features": [
+      "luxury",
+      "designer",
+      "fashion"
+    ],
+    "colors": [
+      "various"
+    ],
+    "price": "$3005",
+    "originalAlt": "LV Fall 2025 Item 26"
+  },
+  {
+    "id": 27,
+    "name": "LV Fall 2025 Item 27",
+    "category": "Fashion",
+    "description": "Louis Vuitton Fall 2025 Ready-to-Wear Collection item 27",
+    "imagePath": "/Users/robert/Documents/Fable/bookish-disco/backend/lv-images/lv-fall-2025-27.jpg",
+    "imageUrl": "https://wwd.com/wp-content/uploads/2025/03/louis-vuitton-fall-25-r-gg-pfw-0027.jpg?w=800",
+    "features": [
+      "luxury",
+      "designer",
+      "fashion"
+    ],
+    "colors": [
+      "various"
+    ],
+    "price": "$2981",
+    "originalAlt": "LV Fall 2025 Item 27"
+  },
+  {
+    "id": 28,
+    "name": "LV Fall 2025 Item 28",
+    "category": "Fashion",
+    "description": "Louis Vuitton Fall 2025 Ready-to-Wear Collection item 28",
+    "imagePath": "/Users/robert/Documents/Fable/bookish-disco/backend/lv-images/lv-fall-2025-28.jpg",
+    "imageUrl": "https://wwd.com/wp-content/uploads/2025/03/louis-vuitton-fall-25-r-gg-pfw-0028.jpg?w=800",
+    "features": [
+      "luxury",
+      "designer",
+      "fashion"
+    ],
+    "colors": [
+      "various"
+    ],
+    "price": "$2806",
+    "originalAlt": "LV Fall 2025 Item 28"
+  },
+  {
+    "id": 29,
+    "name": "LV Fall 2025 Item 29",
+    "category": "Fashion",
+    "description": "Louis Vuitton Fall 2025 Ready-to-Wear Collection item 29",
+    "imagePath": "/Users/robert/Documents/Fable/bookish-disco/backend/lv-images/lv-fall-2025-29.jpg",
+    "imageUrl": "https://wwd.com/wp-content/uploads/2025/03/louis-vuitton-fall-25-r-gg-pfw-0029.jpg?w=800",
+    "features": [
+      "luxury",
+      "designer",
+      "fashion"
+    ],
+    "colors": [
+      "various"
+    ],
+    "price": "$3367",
+    "originalAlt": "LV Fall 2025 Item 29"
+  },
+  {
+    "id": 30,
+    "name": "LV Fall 2025 Item 30",
+    "category": "Fashion",
+    "description": "Louis Vuitton Fall 2025 Ready-to-Wear Collection item 30",
+    "imagePath": "/Users/robert/Documents/Fable/bookish-disco/backend/lv-images/lv-fall-2025-30.jpg",
+    "imageUrl": "https://wwd.com/wp-content/uploads/2025/03/louis-vuitton-fall-25-r-gg-pfw-0030.jpg?w=800",
+    "features": [
+      "luxury",
+      "designer",
+      "fashion"
+    ],
+    "colors": [
+      "various"
+    ],
+    "price": "$2958",
+    "originalAlt": "LV Fall 2025 Item 30"
+  },
+  {
+    "id": 31,
+    "name": "LV Fall 2025 Item 31",
+    "category": "Fashion",
+    "description": "Louis Vuitton Fall 2025 Ready-to-Wear Collection item 31",
+    "imagePath": "/Users/robert/Documents/Fable/bookish-disco/backend/lv-images/lv-fall-2025-31.jpg",
+    "imageUrl": "https://wwd.com/wp-content/uploads/2025/03/louis-vuitton-fall-25-r-gg-pfw-0031.jpg?w=800",
+    "features": [
+      "luxury",
+      "designer",
+      "fashion"
+    ],
+    "colors": [
+      "various"
+    ],
+    "price": "$1033",
+    "originalAlt": "LV Fall 2025 Item 31"
+  },
+  {
+    "id": 32,
+    "name": "LV Fall 2025 Item 32",
+    "category": "Fashion",
+    "description": "Louis Vuitton Fall 2025 Ready-to-Wear Collection item 32",
+    "imagePath": "/Users/robert/Documents/Fable/bookish-disco/backend/lv-images/lv-fall-2025-32.jpg",
+    "imageUrl": "https://wwd.com/wp-content/uploads/2025/03/louis-vuitton-fall-25-r-gg-pfw-0032.jpg?w=800",
+    "features": [
+      "luxury",
+      "designer",
+      "fashion"
+    ],
+    "colors": [
+      "various"
+    ],
+    "price": "$3682",
+    "originalAlt": "LV Fall 2025 Item 32"
+  },
+  {
+    "id": 33,
+    "name": "LV Fall 2025 Item 33",
+    "category": "Fashion",
+    "description": "Louis Vuitton Fall 2025 Ready-to-Wear Collection item 33",
+    "imagePath": "/Users/robert/Documents/Fable/bookish-disco/backend/lv-images/lv-fall-2025-33.jpg",
+    "imageUrl": "https://wwd.com/wp-content/uploads/2025/03/louis-vuitton-fall-25-r-gg-pfw-0033.jpg?w=800",
+    "features": [
+      "luxury",
+      "designer",
+      "fashion"
+    ],
+    "colors": [
+      "various"
+    ],
+    "price": "$2430",
+    "originalAlt": "LV Fall 2025 Item 33"
+  },
+  {
+    "id": 34,
+    "name": "LV Fall 2025 Item 34",
+    "category": "Fashion",
+    "description": "Louis Vuitton Fall 2025 Ready-to-Wear Collection item 34",
+    "imagePath": "/Users/robert/Documents/Fable/bookish-disco/backend/lv-images/lv-fall-2025-34.jpg",
+    "imageUrl": "https://wwd.com/wp-content/uploads/2025/03/louis-vuitton-fall-25-r-gg-pfw-0034.jpg?w=800",
+    "features": [
+      "luxury",
+      "designer",
+      "fashion"
+    ],
+    "colors": [
+      "various"
+    ],
+    "price": "$2173",
+    "originalAlt": "LV Fall 2025 Item 34"
+  },
+  {
+    "id": 35,
+    "name": "LV Fall 2025 Item 35",
+    "category": "Fashion",
+    "description": "Louis Vuitton Fall 2025 Ready-to-Wear Collection item 35",
+    "imagePath": "/Users/robert/Documents/Fable/bookish-disco/backend/lv-images/lv-fall-2025-35.jpg",
+    "imageUrl": "https://wwd.com/wp-content/uploads/2025/03/louis-vuitton-fall-25-r-gg-pfw-0035.jpg?w=800",
+    "features": [
+      "luxury",
+      "designer",
+      "fashion"
+    ],
+    "colors": [
+      "various"
+    ],
+    "price": "$2933",
+    "originalAlt": "LV Fall 2025 Item 35"
+  },
+  {
+    "id": 36,
+    "name": "LV Fall 2025 Item 36",
+    "category": "Fashion",
+    "description": "Louis Vuitton Fall 2025 Ready-to-Wear Collection item 36",
+    "imagePath": "/Users/robert/Documents/Fable/bookish-disco/backend/lv-images/lv-fall-2025-36.jpg",
+    "imageUrl": "https://wwd.com/wp-content/uploads/2025/03/louis-vuitton-fall-25-r-gg-pfw-0036.jpg?w=800",
+    "features": [
+      "luxury",
+      "designer",
+      "fashion"
+    ],
+    "colors": [
+      "various"
+    ],
+    "price": "$2120",
+    "originalAlt": "LV Fall 2025 Item 36"
+  },
+  {
+    "id": 37,
+    "name": "LV Fall 2025 Item 37",
+    "category": "Fashion",
+    "description": "Louis Vuitton Fall 2025 Ready-to-Wear Collection item 37",
+    "imagePath": "/Users/robert/Documents/Fable/bookish-disco/backend/lv-images/lv-fall-2025-37.jpg",
+    "imageUrl": "https://wwd.com/wp-content/uploads/2025/03/louis-vuitton-fall-25-r-gg-pfw-0037.jpg?w=800",
+    "features": [
+      "luxury",
+      "designer",
+      "fashion"
+    ],
+    "colors": [
+      "various"
+    ],
+    "price": "$1298",
+    "originalAlt": "LV Fall 2025 Item 37"
+  },
+  {
+    "id": 38,
+    "name": "LV Fall 2025 Item 38",
+    "category": "Fashion",
+    "description": "Louis Vuitton Fall 2025 Ready-to-Wear Collection item 38",
+    "imagePath": "/Users/robert/Documents/Fable/bookish-disco/backend/lv-images/lv-fall-2025-38.jpg",
+    "imageUrl": "https://wwd.com/wp-content/uploads/2025/03/louis-vuitton-fall-25-r-gg-pfw-0038.jpg?w=800",
+    "features": [
+      "luxury",
+      "designer",
+      "fashion"
+    ],
+    "colors": [
+      "various"
+    ],
+    "price": "$3146",
+    "originalAlt": "LV Fall 2025 Item 38"
+  },
+  {
+    "id": 39,
+    "name": "LV Fall 2025 Item 39",
+    "category": "Fashion",
+    "description": "Louis Vuitton Fall 2025 Ready-to-Wear Collection item 39",
+    "imagePath": "/Users/robert/Documents/Fable/bookish-disco/backend/lv-images/lv-fall-2025-39.jpg",
+    "imageUrl": "https://wwd.com/wp-content/uploads/2025/03/louis-vuitton-fall-25-r-gg-pfw-0039.jpg?w=800",
+    "features": [
+      "luxury",
+      "designer",
+      "fashion"
+    ],
+    "colors": [
+      "various"
+    ],
+    "price": "$2789",
+    "originalAlt": "LV Fall 2025 Item 39"
+  },
+  {
+    "id": 40,
+    "name": "LV Fall 2025 Item 40",
+    "category": "Fashion",
+    "description": "Louis Vuitton Fall 2025 Ready-to-Wear Collection item 40",
+    "imagePath": "/Users/robert/Documents/Fable/bookish-disco/backend/lv-images/lv-fall-2025-40.jpg",
+    "imageUrl": "https://wwd.com/wp-content/uploads/2025/03/louis-vuitton-fall-25-r-gg-pfw-0040.jpg?w=800",
+    "features": [
+      "luxury",
+      "designer",
+      "fashion"
+    ],
+    "colors": [
+      "various"
+    ],
+    "price": "$3846",
+    "originalAlt": "LV Fall 2025 Item 40"
+  },
+  {
+    "id": 41,
+    "name": "LV Fall 2025 Item 41",
+    "category": "Fashion",
+    "description": "Louis Vuitton Fall 2025 Ready-to-Wear Collection item 41",
+    "imagePath": "/Users/robert/Documents/Fable/bookish-disco/backend/lv-images/lv-fall-2025-41.jpg",
+    "imageUrl": "https://wwd.com/wp-content/uploads/2025/03/louis-vuitton-fall-25-r-gg-pfw-0041.jpg?w=800",
+    "features": [
+      "luxury",
+      "designer",
+      "fashion"
+    ],
+    "colors": [
+      "various"
+    ],
+    "price": "$1749",
+    "originalAlt": "LV Fall 2025 Item 41"
+  },
+  {
+    "id": 42,
+    "name": "LV Fall 2025 Item 42",
+    "category": "Fashion",
+    "description": "Louis Vuitton Fall 2025 Ready-to-Wear Collection item 42",
+    "imagePath": "/Users/robert/Documents/Fable/bookish-disco/backend/lv-images/lv-fall-2025-42.jpg",
+    "imageUrl": "https://wwd.com/wp-content/uploads/2025/03/louis-vuitton-fall-25-r-gg-pfw-0042.jpg?w=800",
+    "features": [
+      "luxury",
+      "designer",
+      "fashion"
+    ],
+    "colors": [
+      "various"
+    ],
+    "price": "$1598",
+    "originalAlt": "LV Fall 2025 Item 42"
+  },
+  {
+    "id": 43,
+    "name": "LV Fall 2025 Item 43",
+    "category": "Fashion",
+    "description": "Louis Vuitton Fall 2025 Ready-to-Wear Collection item 43",
+    "imagePath": "/Users/robert/Documents/Fable/bookish-disco/backend/lv-images/lv-fall-2025-43.jpg",
+    "imageUrl": "https://wwd.com/wp-content/uploads/2025/03/louis-vuitton-fall-25-r-gg-pfw-0043.jpg?w=800",
+    "features": [
+      "luxury",
+      "designer",
+      "fashion"
+    ],
+    "colors": [
+      "various"
+    ],
+    "price": "$2956",
+    "originalAlt": "LV Fall 2025 Item 43"
+  },
+  {
+    "id": 44,
+    "name": "LV Fall 2025 Item 44",
+    "category": "Fashion",
+    "description": "Louis Vuitton Fall 2025 Ready-to-Wear Collection item 44",
+    "imagePath": "/Users/robert/Documents/Fable/bookish-disco/backend/lv-images/lv-fall-2025-44.jpg",
+    "imageUrl": "https://wwd.com/wp-content/uploads/2025/03/louis-vuitton-fall-25-r-gg-pfw-0044.jpg?w=800",
+    "features": [
+      "luxury",
+      "designer",
+      "fashion"
+    ],
+    "colors": [
+      "various"
+    ],
+    "price": "$2126",
+    "originalAlt": "LV Fall 2025 Item 44"
+  },
+  {
+    "id": 45,
+    "name": "LV Fall 2025 Item 45",
+    "category": "Fashion",
+    "description": "Louis Vuitton Fall 2025 Ready-to-Wear Collection item 45",
+    "imagePath": "/Users/robert/Documents/Fable/bookish-disco/backend/lv-images/lv-fall-2025-45.jpg",
+    "imageUrl": "https://wwd.com/wp-content/uploads/2025/03/louis-vuitton-fall-25-r-gg-pfw-0045.jpg?w=800",
+    "features": [
+      "luxury",
+      "designer",
+      "fashion"
+    ],
+    "colors": [
+      "various"
+    ],
+    "price": "$1712",
+    "originalAlt": "LV Fall 2025 Item 45"
+  },
+  {
+    "id": 46,
+    "name": "LV Fall 2025 Item 46",
+    "category": "Fashion",
+    "description": "Louis Vuitton Fall 2025 Ready-to-Wear Collection item 46",
+    "imagePath": "/Users/robert/Documents/Fable/bookish-disco/backend/lv-images/lv-fall-2025-46.jpg",
+    "imageUrl": "https://wwd.com/wp-content/uploads/2025/03/louis-vuitton-fall-25-r-gg-pfw-0046.jpg?w=800",
+    "features": [
+      "luxury",
+      "designer",
+      "fashion"
+    ],
+    "colors": [
+      "various"
+    ],
+    "price": "$3196",
+    "originalAlt": "LV Fall 2025 Item 46"
+  },
+  {
+    "id": 47,
+    "name": "LV Fall 2025 Item 47",
+    "category": "Fashion",
+    "description": "Louis Vuitton Fall 2025 Ready-to-Wear Collection item 47",
+    "imagePath": "/Users/robert/Documents/Fable/bookish-disco/backend/lv-images/lv-fall-2025-47.jpg",
+    "imageUrl": "https://wwd.com/wp-content/uploads/2025/03/louis-vuitton-fall-25-r-gg-pfw-0047.jpg?w=800",
+    "features": [
+      "luxury",
+      "designer",
+      "fashion"
+    ],
+    "colors": [
+      "various"
+    ],
+    "price": "$2676",
+    "originalAlt": "LV Fall 2025 Item 47"
+  },
+  {
+    "id": 48,
+    "name": "LV Fall 2025 Item 48",
+    "category": "Fashion",
+    "description": "Louis Vuitton Fall 2025 Ready-to-Wear Collection item 48",
+    "imagePath": "/Users/robert/Documents/Fable/bookish-disco/backend/lv-images/lv-fall-2025-48.jpg",
+    "imageUrl": "https://wwd.com/wp-content/uploads/2025/03/louis-vuitton-fall-25-r-gg-pfw-0048.jpg?w=800",
+    "features": [
+      "luxury",
+      "designer",
+      "fashion"
+    ],
+    "colors": [
+      "various"
+    ],
+    "price": "$1616",
+    "originalAlt": "LV Fall 2025 Item 48"
+  },
+  {
+    "id": 49,
+    "name": "LV Fall 2025 Item 49",
+    "category": "Fashion",
+    "description": "Louis Vuitton Fall 2025 Ready-to-Wear Collection item 49",
+    "imagePath": "/Users/robert/Documents/Fable/bookish-disco/backend/lv-images/lv-fall-2025-49.jpg",
+    "imageUrl": "https://wwd.com/wp-content/uploads/2025/03/louis-vuitton-fall-25-r-gg-pfw-0049.jpg?w=800",
+    "features": [
+      "luxury",
+      "designer",
+      "fashion"
+    ],
+    "colors": [
+      "various"
+    ],
+    "price": "$3754",
+    "originalAlt": "LV Fall 2025 Item 49"
+  },
+  {
+    "id": 50,
+    "name": "LV Fall 2025 Item 50",
+    "category": "Fashion",
+    "description": "Louis Vuitton Fall 2025 Ready-to-Wear Collection item 50",
+    "imagePath": "/Users/robert/Documents/Fable/bookish-disco/backend/lv-images/lv-fall-2025-50.jpg",
+    "imageUrl": "https://wwd.com/wp-content/uploads/2025/03/louis-vuitton-fall-25-r-gg-pfw-0050.jpg?w=800",
+    "features": [
+      "luxury",
+      "designer",
+      "fashion"
+    ],
+    "colors": [
+      "various"
+    ],
+    "price": "$2743",
+    "originalAlt": "LV Fall 2025 Item 50"
+  },
+  {
+    "id": 51,
+    "name": "LV Fall 2025 Item 51",
+    "category": "Fashion",
+    "description": "Louis Vuitton Fall 2025 Ready-to-Wear Collection item 51",
+    "imagePath": "/Users/robert/Documents/Fable/bookish-disco/backend/lv-images/lv-fall-2025-51.jpg",
+    "imageUrl": "https://wwd.com/wp-content/uploads/2025/03/louis-vuitton-fall-25-r-gg-pfw-0051.jpg?w=800",
+    "features": [
+      "luxury",
+      "designer",
+      "fashion"
+    ],
+    "colors": [
+      "various"
+    ],
+    "price": "$2678",
+    "originalAlt": "LV Fall 2025 Item 51"
+  },
+  {
+    "id": 52,
+    "name": "LV Fall 2025 Item 52",
+    "category": "Fashion",
+    "description": "Louis Vuitton Fall 2025 Ready-to-Wear Collection item 52",
+    "imagePath": "/Users/robert/Documents/Fable/bookish-disco/backend/lv-images/lv-fall-2025-52.jpg",
+    "imageUrl": "https://wwd.com/wp-content/uploads/2025/03/louis-vuitton-fall-25-r-gg-pfw-0052.jpg?w=800",
+    "features": [
+      "luxury",
+      "designer",
+      "fashion"
+    ],
+    "colors": [
+      "various"
+    ],
+    "price": "$1494",
+    "originalAlt": "LV Fall 2025 Item 52"
+  },
+  {
+    "id": 53,
+    "name": "LV Fall 2025 Item 53",
+    "category": "Fashion",
+    "description": "Louis Vuitton Fall 2025 Ready-to-Wear Collection item 53",
+    "imagePath": "/Users/robert/Documents/Fable/bookish-disco/backend/lv-images/lv-fall-2025-53.jpg",
+    "imageUrl": "https://wwd.com/wp-content/uploads/2025/03/louis-vuitton-fall-25-r-gg-pfw-0053.jpg?w=800",
+    "features": [
+      "luxury",
+      "designer",
+      "fashion"
+    ],
+    "colors": [
+      "various"
+    ],
+    "price": "$1300",
+    "originalAlt": "LV Fall 2025 Item 53"
+  },
+  {
+    "id": 54,
+    "name": "LV Fall 2025 Item 54",
+    "category": "Fashion",
+    "description": "Louis Vuitton Fall 2025 Ready-to-Wear Collection item 54",
+    "imagePath": "/Users/robert/Documents/Fable/bookish-disco/backend/lv-images/lv-fall-2025-54.jpg",
+    "imageUrl": "https://wwd.com/wp-content/uploads/2025/03/louis-vuitton-fall-25-r-gg-pfw-0054.jpg?w=800",
+    "features": [
+      "luxury",
+      "designer",
+      "fashion"
+    ],
+    "colors": [
+      "various"
+    ],
+    "price": "$3996",
+    "originalAlt": "LV Fall 2025 Item 54"
+  },
+  {
+    "id": 55,
+    "name": "LV Fall 2025 Item 55",
+    "category": "Fashion",
+    "description": "Louis Vuitton Fall 2025 Ready-to-Wear Collection item 55",
+    "imagePath": "/Users/robert/Documents/Fable/bookish-disco/backend/lv-images/lv-fall-2025-55.jpg",
+    "imageUrl": "https://wwd.com/wp-content/uploads/2025/03/louis-vuitton-fall-25-r-gg-pfw-0055.jpg?w=800",
+    "features": [
+      "luxury",
+      "designer",
+      "fashion"
+    ],
+    "colors": [
+      "various"
+    ],
+    "price": "$2996",
+    "originalAlt": "LV Fall 2025 Item 55"
+  },
+  {
+    "id": 56,
+    "name": "LV Fall 2025 Item 56",
+    "category": "Fashion",
+    "description": "Louis Vuitton Fall 2025 Ready-to-Wear Collection item 56",
+    "imagePath": "/Users/robert/Documents/Fable/bookish-disco/backend/lv-images/lv-fall-2025-56.jpg",
+    "imageUrl": "https://wwd.com/wp-content/uploads/2025/03/louis-vuitton-fall-25-r-gg-pfw-0056.jpg?w=800",
+    "features": [
+      "luxury",
+      "designer",
+      "fashion"
+    ],
+    "colors": [
+      "various"
+    ],
+    "price": "$1845",
+    "originalAlt": "LV Fall 2025 Item 56"
+  },
+  {
+    "id": 57,
+    "name": "LV Fall 2025 Item 57",
+    "category": "Fashion",
+    "description": "Louis Vuitton Fall 2025 Ready-to-Wear Collection item 57",
+    "imagePath": "/Users/robert/Documents/Fable/bookish-disco/backend/lv-images/lv-fall-2025-57.jpg",
+    "imageUrl": "https://wwd.com/wp-content/uploads/2025/03/louis-vuitton-fall-25-r-gg-pfw-0057.jpg?w=800",
+    "features": [
+      "luxury",
+      "designer",
+      "fashion"
+    ],
+    "colors": [
+      "various"
+    ],
+    "price": "$2545",
+    "originalAlt": "LV Fall 2025 Item 57"
+  },
+  {
+    "id": 58,
+    "name": "LV Fall 2025 Item 58",
+    "category": "Fashion",
+    "description": "Louis Vuitton Fall 2025 Ready-to-Wear Collection item 58",
+    "imagePath": "/Users/robert/Documents/Fable/bookish-disco/backend/lv-images/lv-fall-2025-58.jpg",
+    "imageUrl": "https://wwd.com/wp-content/uploads/2025/03/louis-vuitton-fall-25-r-gg-pfw-0058.jpg?w=800",
+    "features": [
+      "luxury",
+      "designer",
+      "fashion"
+    ],
+    "colors": [
+      "various"
+    ],
+    "price": "$1346",
+    "originalAlt": "LV Fall 2025 Item 58"
+  },
+  {
+    "id": 59,
+    "name": "LV Fall 2025 Item 59",
+    "category": "Fashion",
+    "description": "Louis Vuitton Fall 2025 Ready-to-Wear Collection item 59",
+    "imagePath": "/Users/robert/Documents/Fable/bookish-disco/backend/lv-images/lv-fall-2025-59.jpg",
+    "imageUrl": "https://wwd.com/wp-content/uploads/2025/03/louis-vuitton-fall-25-r-gg-pfw-0059.jpg?w=800",
+    "features": [
+      "luxury",
+      "designer",
+      "fashion"
+    ],
+    "colors": [
+      "various"
+    ],
+    "price": "$2528",
+    "originalAlt": "LV Fall 2025 Item 59"
+  },
+  {
+    "id": 60,
+    "name": "LV Fall 2025 Item 60",
+    "category": "Fashion",
+    "description": "Louis Vuitton Fall 2025 Ready-to-Wear Collection item 60",
+    "imagePath": "/Users/robert/Documents/Fable/bookish-disco/backend/lv-images/lv-fall-2025-60.jpg",
+    "imageUrl": "https://wwd.com/wp-content/uploads/2025/03/louis-vuitton-fall-25-r-gg-pfw-0060.jpg?w=800",
+    "features": [
+      "luxury",
+      "designer",
+      "fashion"
+    ],
+    "colors": [
+      "various"
+    ],
+    "price": "$2318",
+    "originalAlt": "LV Fall 2025 Item 60"
+  },
+  {
+    "id": 61,
+    "name": "LV Fall 2025 Item 61",
+    "category": "Fashion",
+    "description": "Louis Vuitton Fall 2025 Ready-to-Wear Collection item 61",
+    "imagePath": "/Users/robert/Documents/Fable/bookish-disco/backend/lv-images/lv-fall-2025-61.jpg",
+    "imageUrl": "https://wwd.com/wp-content/uploads/2025/03/louis-vuitton-fall-25-r-gg-pfw-0061.jpg?w=800",
+    "features": [
+      "luxury",
+      "designer",
+      "fashion"
+    ],
+    "colors": [
+      "various"
+    ],
+    "price": "$2336",
+    "originalAlt": "LV Fall 2025 Item 61"
+  },
+  {
+    "id": 62,
+    "name": "LV Fall 2025 Item 62",
+    "category": "Fashion",
+    "description": "Louis Vuitton Fall 2025 Ready-to-Wear Collection item 62",
+    "imagePath": "/Users/robert/Documents/Fable/bookish-disco/backend/lv-images/lv-fall-2025-62.jpg",
+    "imageUrl": "https://wwd.com/wp-content/uploads/2025/03/louis-vuitton-fall-25-r-gg-pfw-0062.jpg?w=800",
+    "features": [
+      "luxury",
+      "designer",
+      "fashion"
+    ],
+    "colors": [
+      "various"
+    ],
+    "price": "$1133",
+    "originalAlt": "LV Fall 2025 Item 62"
+  }
+]
